@@ -12,7 +12,9 @@ This is a unique tool by me that help you download kali linux full,nano and mini
 ```
 pkg update && upgrade
 ```
+```
 git clone https://github.com/bijoysingha/KI-Kali-Installer-.git
+```
 ```
 cd Ki.sh
 ```
