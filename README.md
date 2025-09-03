@@ -16,5 +16,25 @@ pkg update && upgrade
 git clone https://github.com/bijoysingha/KI-Kali-Installer-.git
 ```
 ```
-cd Ki.sh
+cd KI-KALI-INSTALLER-
 ```
+```
+chmod KI.sh
+```
+```
+./KI.sh
+```
+
+# Credits 
+
+• Kali Linux
+
+• Kali NetHunter Project
+
+# License 
+
+This project is released under the  License.
+
+# Bugs 
+
+If any bugs report me.
