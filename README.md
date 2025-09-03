@@ -33,7 +33,7 @@ chmod KI.sh
 
 # License 
 
-This project is released under the  License.
+This project is released under the  GPL-3.0 License.
 
 # Bugs 
 
