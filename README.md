@@ -15,4 +15,4 @@ pkg update && upgrade
 git clone https://github.com/bijoysingha/KI-Kali-Installer-.git
 ```
 cd Ki.sh
-
+```
